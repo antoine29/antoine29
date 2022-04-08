@@ -72,7 +72,7 @@
 
 ### Get in touch:
 
-[<img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://twitter.com/codestackr#gh-light-mode-only)
+[<img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/antoine29)
 
 <br/><br/>
 <br/><br/>
