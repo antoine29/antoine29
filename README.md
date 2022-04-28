@@ -1,8 +1,8 @@
 # Hi there, I'm Anthony 👋
 
-## I'm a Technology Geek, Software Developer, and (formerly 🤣) Teacher Assistant!
+## I'm a Technology Geek, Software Developer, and (formerly) Teacher Assistant!
 
-- 🌱 Focusing and eager to learn more about Backend & DevOps areas
+- 🌱 Focusing in and eager to learn more about Backend & DevOps areas
 - 🥅 2022 Goals: Learn more about kubernetes
 - ⚡ Fun fact: I'm a linux fanboy 🐧
 
@@ -55,9 +55,9 @@
 - [Blog application](https://github.com/antoine29/BlogList):
 
   A web application developed as showcase for technologies like Node, Express, MongoDB, React, Redux and SemanticUI. E2E tests provided with Cypress and the whole application can be deployed locally (and in production mode) through Docker-compose.
-- [Hospital patientor tracking](https://github.com/antoine29/HospittalPatientorTracking)
+- [Hospital patientor tracking](https://github.com/antoine29/HospittalPatientorTracking/tree/master)
 
-  A MVP application developed (focused in the backend side) using Prisma, GraphQL and MongoDB. Docker-compose file included to launch the application with one command.
+  A MVP application developed (focused in the backend side) using TS, Prisma, GraphQL and MongoDB. Docker-compose file included to launch the application with one command. Static frontend files deployed as GH page.
 - [Restaurant Review](https://github.com/antoine29/RestaurantReview)
 
   MVP application developed with the MERN stack and Material UI components. 
