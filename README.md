@@ -3,7 +3,9 @@
 ## I'm a Technology Geek, +6yoe Software Developer, and (formerly) Professor Assistant!
 
 - 🌱 Focusing on and eager to learn and work with Backend and DevOps technologies.
-- 🥅 2024 Goals: Start contributing to the CNCF. Complete the GCP architect or CKAD certification.
+- 🥅 2025 Goals:
+  - Set up a K8S homelab
+  - Complete the GCP architect or CKAD certification.
 - ⚡ Fun fact: I'm a linux fanboy 🐧
 
 ## I like to work with:
